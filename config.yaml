@@ -4,3 +4,5 @@
 # Clean up debug print statements before the release
 
 # Adjust timeout and retry settings based on production observations
+
+# Remove the unused parameter that was left from an old refactor
