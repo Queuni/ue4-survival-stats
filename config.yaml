@@ -8,3 +8,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Update the API docs with the new query parameters and examples
