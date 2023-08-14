@@ -8,3 +8,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Improve error message when the required env var is not set
+
+# Clean up leftover code from the previous implementation
