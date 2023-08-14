@@ -8,3 +8,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Bump the CI image to use the latest stable runner version
