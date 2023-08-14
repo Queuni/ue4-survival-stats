@@ -6,3 +6,6 @@
 
 ## 2023-08-08
 - Update the API docs with the new query parameters and examples
+
+## 2023-08-14
+- Adjust the default concurrency limit based on load test results
