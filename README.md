@@ -56,3 +56,5 @@ stamina_hud_icon.uasset
 LICENSE
 README.md
 ```
+
+- Handle missing optional field in the response without raising
