@@ -8,3 +8,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Correct the comparison that was using the wrong operator
+
+# Adjust timeout and retry settings based on production observations
