@@ -9,3 +9,6 @@
 
 ## 2023-08-14
 - Adjust the default concurrency limit based on load test results
+
+## 2023-08-23
+- Support custom headers in the client for API key or auth tokens
