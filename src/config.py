@@ -6,3 +6,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Adjust timeout and retry settings based on production observations
+
+# Support both YAML and JSON config formats for flexibility
