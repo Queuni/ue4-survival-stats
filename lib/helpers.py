@@ -12,3 +12,5 @@
 # Clean up leftover code from the previous implementation
 
 # Update the license file and add the new third-party notices
+
+# Update the changelog with the fixes included in this release
