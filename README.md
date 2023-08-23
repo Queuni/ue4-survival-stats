@@ -60,3 +60,5 @@ README.md
 - Handle missing optional field in the response without raising
 
 - Support optional config file path via env var for easier deployment
+
+- Support optional config file path via env var for easier deployment
