@@ -64,3 +64,5 @@ README.md
 - Support optional config file path via env var for easier deployment
 
 - Fix the test that was flaky due to reliance on system time
+
+- Correct the default value for the feature flag in production

@@ -10,3 +10,5 @@
 # Improve error message when the required env var is not set
 
 # Clean up leftover code from the previous implementation
+
+# Update the license file and add the new third-party notices
