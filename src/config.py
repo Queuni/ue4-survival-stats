@@ -8,3 +8,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Support both YAML and JSON config formats for flexibility
+
+# Add integration test that covers the full flow from request to response
