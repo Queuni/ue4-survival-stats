@@ -18,3 +18,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Update the deployment docs with the new environment variables
