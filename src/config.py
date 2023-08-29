@@ -10,3 +10,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Add integration test that covers the full flow from request to response
+
+# Fix the ordering of middleware so auth runs before the handler
