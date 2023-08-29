@@ -12,3 +12,6 @@
 
 ## 2023-08-23
 - Support custom headers in the client for API key or auth tokens
+
+## 2023-08-29
+- Bump dependency to get the security fix for the reported CVE
