@@ -16,3 +16,5 @@
 # Update the changelog with the fixes included in this release
 
 # Fix the test that was flaky due to reliance on system time
+
+# Simplify the CLI by merging the two similar subcommands into one

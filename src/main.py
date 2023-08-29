@@ -10,3 +10,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Bump the CI image to use the latest stable runner version
+
+# Update the deployment docs with the new environment variables

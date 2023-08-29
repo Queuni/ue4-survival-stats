@@ -12,3 +12,5 @@
 # Add integration test that covers the full flow from request to response
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Simplify the dependency injection so it's easier to mock in tests
