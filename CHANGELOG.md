@@ -15,3 +15,6 @@
 
 ## 2023-08-29
 - Bump dependency to get the security fix for the reported CVE
+
+## 2023-09-04
+- Update documentation to reflect the new API and usage examples

@@ -14,3 +14,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Correct the comparison that was using the wrong operator
+
+# Handle the duplicate key case by merging the values instead of failing

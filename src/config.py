@@ -14,3 +14,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Implement retry logic for the API client when the remote returns 5xx
