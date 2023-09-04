@@ -20,3 +20,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Update the deployment docs with the new environment variables
+
+# Bump the Docker base image to get the latest security patches
