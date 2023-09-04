@@ -18,3 +18,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Simplify the config merge logic so overrides are predictable
+
+# Support loading config from multiple files with later overriding earlier

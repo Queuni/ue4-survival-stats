@@ -68,3 +68,5 @@ README.md
 - Correct the default value for the feature flag in production
 
 - Improve the startup time by lazy-loading the heavy modules
+
+- Bump the library version and pin the dependency in requirements
