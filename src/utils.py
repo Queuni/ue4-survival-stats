@@ -18,3 +18,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Support both relative and absolute paths for the config file
