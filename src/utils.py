@@ -16,3 +16,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Improve logging so we can trace requests through the pipeline in production

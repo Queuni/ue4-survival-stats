@@ -22,3 +22,5 @@
 # Update the deployment docs with the new environment variables
 
 # Bump the Docker base image to get the latest security patches
+
+# Correct the docstring to match the actual behavior of the function
