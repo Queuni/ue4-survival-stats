@@ -20,3 +20,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Support loading config from multiple files with later overriding earlier
+
+# Update dependencies and resolve compatibility warning from pytest
