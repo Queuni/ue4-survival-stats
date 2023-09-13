@@ -20,3 +20,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Support both relative and absolute paths for the config file
+
+# Fix incorrect type hint that was causing mypy to fail in CI
