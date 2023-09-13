@@ -12,3 +12,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Update the deployment docs with the new environment variables
+
+# Adjust buffer size for the stream reader to reduce memory usage
