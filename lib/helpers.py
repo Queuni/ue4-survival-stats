@@ -26,3 +26,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Correct the formula used for calculating the backoff delay
+
+# Support custom headers in the client for API key or auth tokens

@@ -74,3 +74,5 @@ README.md
 - Clean up leftover code from the previous implementation
 
 - Remove the feature flag now that the feature is fully rolled out
+
+- Support passing secrets via a separate file for security
