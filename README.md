@@ -76,3 +76,5 @@ README.md
 - Remove the feature flag now that the feature is fully rolled out
 
 - Support passing secrets via a separate file for security
+
+- Remove hardcoded credentials and move to env-based configuration
