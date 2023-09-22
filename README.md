@@ -80,3 +80,5 @@ README.md
 - Remove hardcoded credentials and move to env-based configuration
 
 - Adjust timeout and retry settings based on production observations
+
+- Add a comment explaining why we disable the linter on this line
