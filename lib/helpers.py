@@ -32,3 +32,5 @@
 # Support passing options through the config file as well as CLI
 
 # Refactor utils to use a single source of truth for default values
+
+# Remove the temporary debug endpoint before the release

@@ -22,3 +22,5 @@
 # Support loading config from multiple files with later overriding earlier
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Simplify the CLI by merging the two similar subcommands into one
