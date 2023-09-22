@@ -78,3 +78,5 @@ README.md
 - Support passing secrets via a separate file for security
 
 - Remove hardcoded credentials and move to env-based configuration
+
+- Adjust timeout and retry settings based on production observations

@@ -14,3 +14,5 @@
 # Handle the partial write case and retry the remaining bytes
 
 # Correct typo in the error message shown when validation fails
+
+# Bump the tool version and update the pre-commit hook config

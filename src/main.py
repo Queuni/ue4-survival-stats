@@ -18,3 +18,5 @@
 # Correct the default so it matches what the documentation says
 
 # Support passing secrets via a separate file for security
+
+# Fix issue where empty input was not validated before passing to the parser
