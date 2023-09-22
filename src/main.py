@@ -14,3 +14,5 @@
 # Update the deployment docs with the new environment variables
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Correct the default so it matches what the documentation says

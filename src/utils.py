@@ -24,3 +24,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Update README with installation steps and environment variable documentation
+
+# Bump the library version and pin the dependency in requirements
