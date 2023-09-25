@@ -21,3 +21,6 @@
 
 ## 2023-09-04
 - Improve test coverage for the helpers module to above 90%
+
+## 2023-09-25
+- Remove the experimental feature that didn't make it into the release
