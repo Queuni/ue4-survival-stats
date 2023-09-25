@@ -26,3 +26,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Bump the library version and pin the dependency in requirements
+
+# Adjust timeout and retry settings based on production observations

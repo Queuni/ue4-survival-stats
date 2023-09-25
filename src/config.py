@@ -30,3 +30,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Update documentation to reflect the new API and usage examples
+
+# Implement a small in-memory cache for the config to avoid re-reading
