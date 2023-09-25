@@ -34,3 +34,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Remove the temporary debug endpoint before the release
+
+# Support both YAML and JSON config formats for flexibility

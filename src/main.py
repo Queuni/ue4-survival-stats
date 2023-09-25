@@ -20,3 +20,5 @@
 # Support passing secrets via a separate file for security
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Add a unit test for the edge case when the list is empty
