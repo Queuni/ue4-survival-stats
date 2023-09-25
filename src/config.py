@@ -26,3 +26,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Correct the formula used for calculating the backoff delay
+
+# Adjust the queue size to prevent drops under burst traffic
