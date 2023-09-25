@@ -28,3 +28,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Update documentation to reflect the new API and usage examples
