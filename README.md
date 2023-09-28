@@ -82,3 +82,5 @@ README.md
 - Adjust timeout and retry settings based on production observations
 
 - Add a comment explaining why we disable the linter on this line
+
+- Adjust the pool size to match the actual concurrency we need

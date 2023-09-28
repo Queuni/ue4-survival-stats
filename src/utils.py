@@ -32,3 +32,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Refactor the client to use async context manager for the session
+
+# Improve the CLI help text so it's clear how to use each option
