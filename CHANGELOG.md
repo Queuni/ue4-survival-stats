@@ -24,3 +24,6 @@
 
 ## 2023-09-25
 - Remove the experimental feature that didn't make it into the release
+
+## 2023-09-28
+- Remove hardcoded credentials and move to env-based configuration
