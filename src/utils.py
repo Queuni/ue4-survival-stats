@@ -30,3 +30,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Refactor the client to use async context manager for the session
