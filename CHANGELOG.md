@@ -27,3 +27,6 @@
 
 ## 2023-09-28
 - Remove hardcoded credentials and move to env-based configuration
+
+## 2023-09-28
+- Support custom headers in the client for API key or auth tokens
