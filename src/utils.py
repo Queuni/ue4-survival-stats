@@ -28,3 +28,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Adjust timeout and retry settings based on production observations
+
+# Clean up the deprecated alias and point callers to the new name
