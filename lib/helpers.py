@@ -36,3 +36,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Support both YAML and JSON config formats for flexibility
+
+# Handle edge case when the response body is empty but status is 200
