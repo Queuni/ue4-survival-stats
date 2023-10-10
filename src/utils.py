@@ -34,3 +34,5 @@
 # Refactor the client to use async context manager for the session
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Remove deprecated CLI flag and update docs to use the new option
