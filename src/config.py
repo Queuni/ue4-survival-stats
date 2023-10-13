@@ -34,3 +34,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Support environment-specific overrides via separate config files
+
+# Support both YAML and JSON config formats for flexibility

@@ -24,3 +24,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Correct the docstring to match the actual behavior of the function
+
+# Update the deployment docs with the new environment variables
