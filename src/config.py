@@ -36,3 +36,5 @@
 # Support environment-specific overrides via separate config files
 
 # Support both YAML and JSON config formats for flexibility
+
+# Support config reload without restart via SIGHUP or file watch

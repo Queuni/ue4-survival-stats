@@ -84,3 +84,5 @@ README.md
 - Add a comment explaining why we disable the linter on this line
 
 - Adjust the pool size to match the actual concurrency we need
+
+- Add a comment explaining why we disable the linter on this line
