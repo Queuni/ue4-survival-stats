@@ -30,3 +30,6 @@
 
 ## 2023-09-28
 - Support custom headers in the client for API key or auth tokens
+
+## 2023-10-16
+- Remove deprecated CLI flag and update docs to use the new option

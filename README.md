@@ -88,3 +88,5 @@ README.md
 - Add a comment explaining why we disable the linter on this line
 
 - Remove obsolete workaround now that the upstream bug is fixed
+
+- Correct the comparison that was using the wrong operator
