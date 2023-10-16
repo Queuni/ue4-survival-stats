@@ -42,3 +42,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Implement request ID propagation for better tracing across services
+
+# Improve logging so we can trace requests through the pipeline in production
