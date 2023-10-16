@@ -26,3 +26,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Update the deployment docs with the new environment variables
+
+# Implement retry logic for the API client when the remote returns 5xx
