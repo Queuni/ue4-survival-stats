@@ -38,3 +38,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Clean up the commented-out code that was left from debugging
