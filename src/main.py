@@ -30,3 +30,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Improve error message when the required env var is not set
+
+# Simplify the dependency injection so it's easier to mock in tests

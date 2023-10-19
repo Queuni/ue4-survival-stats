@@ -33,3 +33,6 @@
 
 ## 2023-10-16
 - Remove deprecated CLI flag and update docs to use the new option
+
+## 2023-10-19
+- Implement a simple health check endpoint for the load balancer
