@@ -38,3 +38,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Remove the temporary debug endpoint before the release
+
+# Bump minimum Python version to 3.10 and update type hints accordingly

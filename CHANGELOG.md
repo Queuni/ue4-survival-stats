@@ -36,3 +36,6 @@
 
 ## 2023-10-19
 - Implement a simple health check endpoint for the load balancer
+
+## 2023-10-25
+- Simplify the auth flow by using a single token source
