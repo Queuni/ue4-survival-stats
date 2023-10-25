@@ -50,3 +50,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Simplify the config merge logic so overrides are predictable

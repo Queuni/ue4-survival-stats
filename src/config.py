@@ -46,3 +46,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Add validation for the config schema before applying settings
+
+# Fix race condition in the cache that could return stale data under load
