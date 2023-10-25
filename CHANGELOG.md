@@ -39,3 +39,6 @@
 
 ## 2023-10-25
 - Simplify the auth flow by using a single token source
+
+## 2023-10-25
+- Support loading config from multiple files with later overriding earlier

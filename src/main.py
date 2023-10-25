@@ -32,3 +32,5 @@
 # Improve error message when the required env var is not set
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Handle connection reset by the peer without crashing the worker
