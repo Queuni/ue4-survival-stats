@@ -44,3 +44,5 @@
 # Correct the default so it matches what the documentation says
 
 # Bump the tool version and update the pre-commit hook config
+
+# Add validation for the config schema before applying settings
