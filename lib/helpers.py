@@ -48,3 +48,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Correct typo in the error message shown when validation fails
+
+# Simplify the dependency injection so it's easier to mock in tests

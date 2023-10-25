@@ -40,3 +40,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Simplify the dependency injection so it's easier to mock in tests

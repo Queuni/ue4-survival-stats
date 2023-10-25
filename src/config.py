@@ -42,3 +42,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Correct the default so it matches what the documentation says
+
+# Bump the tool version and update the pre-commit hook config
